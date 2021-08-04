@@ -1,0 +1,18 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Disable Traders",
+  "Version": "1.15.3",
+  "NetworkVersion": null,
+  "Description": "Removes traders.  All trader wagons will be empty.",
+  "Website": "",
+  "ModID": "notraders",
+  "Authors": [
+    "RedPine"
+  ],
+  "Contributors": [],
+  "Side": "Server",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {}
+}

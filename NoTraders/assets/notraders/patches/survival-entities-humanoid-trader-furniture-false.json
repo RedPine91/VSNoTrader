@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/enabled",
+    "value": false,
+    "file": "entities/humanoid/trader-furniture"
+  }
+]
+
+
+
