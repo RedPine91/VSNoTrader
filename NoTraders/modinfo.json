@@ -1,0 +1,19 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "notraders",
+  "Version": "1.0.0",
+  "NetworkVersion": null,
+  "Description": "No Traders or wagaons will spawn",
+  "ModID": "notraders",
+  "Authors": [
+    "RedPine"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {
+	"game": "1.15.3"
+  }
+}
