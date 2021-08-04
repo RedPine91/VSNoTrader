@@ -3,7 +3,7 @@
     "op": "add",
     "path": "/enabled",
     "value": false,
-    "file": "entities/humanoid/trader-artisan"
+    "file": "entities/humanoid/trader-artisan.json"
   }
 ]
 
