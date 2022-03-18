@@ -2,7 +2,7 @@
   "Type": 1,
   "TextureSize": 32,
   "Name": "notraders",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "NetworkVersion": null,
   "Description": "No Traders or wagaons will spawn",
   "ModID": "notraders",
@@ -14,6 +14,6 @@
   "RequiredOnClient": true,
   "RequiredOnServer": true,
   "Dependencies": {
-	"game": "1.15.3"
+	"game": "1.16.4"
   }
 }
